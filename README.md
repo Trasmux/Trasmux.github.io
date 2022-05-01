@@ -1,38 +1,33 @@
 ## Welcome to GitHub Pages
 Owned by Renz
 
-You can use the [editor on GitHub](https://github.com/Trasmux/Trasmux.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! This is the list of anime I've watched that I like the most. Try watching it too if you haven't seen it yet. <3
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Black Clover
+The series is based on Tetsuya Takahashi and Yuki Tabata’s manga about Asta, a young boy who dreams of becoming the greatest mage in the kingdom. Fate intervenes when an encounter with a mysterious black horse grants him the power to summon his own unique magic, but with one condition: he must become the greatest mage in the kingdom.
 
-### Markdown
+![image](https://user-images.githubusercontent.com/102720914/166132470-ac11ec34-8a64-4514-bb60-d4373fe6029f.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Darling in the Franxx
+Darling in the FranXX, a mecha anime, aired in Winter 2018. It follows two pilots, Hiro and Zero Two, who are assigned partners in a special class of pilots who are used to fight in the Franxx, the world’s first artificial lifeforms. The story follows their romantic journey and their battles in the Franxx.
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/102720914/166132563-9b3d51d0-b45c-46f1-9a26-b888bc9c3470.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Junji Ito Collection
+The Junji Ito Collection is an anime television series based on the manga series of the same name by Junji Ito. The series is a psychological horror that revolves around seven different tales that take place in the towns of Fuso and Gokakurakan, each in a different decade.
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/102720914/166132657-88d65886-b313-4ddd-9dd4-45088b69f0eb.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Kakegurui
+Kakegurui is an anime series about a group of people in a fantasy RPG-style world. They all seem to be trying to get the top spot in the game, but some are doing it by playing dirty.
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/102720914/166132763-742ef12c-2504-4dd1-863f-3884d5e04e9b.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Trasmux/Trasmux.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### The Secret World of Arrietty
+The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/102720914/166132804-30fc2848-4324-4257-8779-4e4f920a62c4.png)
